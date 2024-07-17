@@ -1,5 +1,5 @@
 import { Router } from "express";
-import ruotcanal from "./routes.canales.js";
+import ruotcanal from "./canales.rout.js";
 
 const rout  = Router();
 
